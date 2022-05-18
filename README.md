@@ -1,6 +1,6 @@
 ## Project Description
 
-This is an ecommerce app built with React - 
+This is an ecommerce app built with React and redux, firebase, mongodb.- 
 Create React App.
 
 
